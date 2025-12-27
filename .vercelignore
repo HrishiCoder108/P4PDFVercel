@@ -1,0 +1,6 @@
+tests/
+samples/
+*.md
+.git/
+.gitignore
+
